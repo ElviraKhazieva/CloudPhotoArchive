@@ -1,4 +1,5 @@
 # CloudPhotoArchive
+Хазиева Эльвира, 11-901
 
 ##### Предварительно нужно создать директорию  
 `~/.config/cloudphotoarchive`
