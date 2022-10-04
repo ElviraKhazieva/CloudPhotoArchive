@@ -2,7 +2,7 @@
 Хазиева Эльвира, 11-901
 
 ##### Предварительно нужно создать директорию  
-`~/.config/cloudphotoarchive`
+`.config/cloudphotoarchive`
 ##### Для инициализации программы сначала нужно выполнить команду init: 
 `python3 cloudphoto.py init`
 ##### Далее необходимо ввести свои  aws_access_key_id, aws_secret_access_key и bucket
